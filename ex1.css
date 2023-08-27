@@ -1,0 +1,15 @@
+.text-box h3:nth-of-type(odd) {
+    color: pink;
+  }
+#greycol{
+    color: gray;
+}
+.text-box > div > p {
+    color: red;
+  }
+  .text-box p:nth-of-type(2) {
+    color: green;
+  }
+  .yellow{
+    color: yellow;
+  }
