@@ -7,7 +7,7 @@
 .text-box > div > p {
     color: red;
   }
-  .text-box p:nth-of-type(2) {
+  .text-box p:nth-of-type(3) {
     color: green;
   }
   .yellow{
